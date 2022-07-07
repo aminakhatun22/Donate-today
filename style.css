@@ -1,0 +1,217 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.container {
+
+    float: left;
+    width: 800px;
+    margin: auto;
+    padding: 2%;
+
+}
+
+.content {
+
+    float: left;
+    bottom: 0;
+
+    color: #f1f1f1;
+    width: auto;
+    margin: auto;
+    padding: 2%;
+
+}
+
+.last-portion {
+    text-emphasis-color: gray;
+    text-align: center;
+    margin: auto;
+    padding: 2%;
+
+}
+
+.last-section {
+    background-color: cornflowerblue;
+    margin: auto;
+    width: auto;
+    padding: 40px 10px;
+}
+
+.half-width {}
+
+
+
+.center {
+    text-align: center;
+}
+
+.second-center {
+
+    width: auto;
+    margin: auto;
+    padding: 2%;
+}
+
+.subscribe-button {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: brown;
+    background-color: blue;
+    font-weight: 700;
+    text-align: center;
+}
+
+.third-center {
+    text-align: center;
+    width: auto;
+    margin: auto;
+
+}
+
+#left {
+    text-align: left;
+    background-color: darksalmon;
+    margin: 2opx;
+    width: auto;
+    padding: 10px 5px;
+
+}
+
+#right {
+    text-align: right;
+    background-color: darkgrey;
+    margin: 20px;
+    width: auto;
+    padding: 10px 5px;
+
+}
+
+#center {
+    text-align: center;
+    background-color: cadetblue;
+    margin: 20px;
+    width: auto;
+    padding: 10px 5px;
+
+}
+
+
+
+
+
+section {
+
+    height: 500px;
+    padding-bottom: 2px;
+}
+
+
+
+#id1 {
+    text-align: left;
+}
+
+.display {
+    display: flex
+}
+
+.My-updates {
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+
+.contribute-now {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: brown;
+    background-color: blue;
+    font-weight: 700;
+    text-align: center;
+}
+
+.how-contribute {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: brown;
+    background-color: blue;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: brown;
+    background-color: blue;
+    font-weight: 700;
+    text-align: center;
+}
+
+.content {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+
+}
+
+.h1-h {
+    text-decoration-color: blueviolet;
+}
+
+.p-h {
+    display: flex;
+}
+
+.link-download {
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: purple;
+    font-weight: 700;
+
+    background-color: chartreuse;
+}
+
+#hr {
+    background-color: crimson;
+    border: 5px;
+}
+
+.box-box {
+    text-align: center;
+    justify-content: space-evenly;
+    width: auto;
+    margin: auto;
+    padding: 20px 30px;
+    background-color: aqua;
+    display: flex;
+
+}
+
+.footer {
+    text-align: center;
+    text-emphasis-color: brown;
+    background-color: brown;
+
+
+}
